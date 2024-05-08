@@ -1,0 +1,18 @@
+Ad: Omar
+Soyad: Shalaty
+Bolum: Elektrik Muhendisligi
+Ortalama: 80.50
+Aldigi Dersler:
+Ders Adi: Matematik, Kredi: 4, Puan: 60
+Ders Adi: Fizik, Kredi: 5, Puan: 75
+Ders Adi: Bp2, Kredi: 6, Puan: 44
+
+Ad: Eqbal
+Soyad: Ayoub
+Bolum: Bilgisayar Muhendisligi
+Ortalama: 50.50
+Aldigi Dersler:
+Ders Adi: Matematik, Kredi: 3, Puan: 80
+Ders Adi: Fizik, Kredi: 4, Puan: 90
+Ders Adi: Bp2, Kredi: 5, Puan: 88
+
